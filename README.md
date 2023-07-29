@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasen</h1>
-<h3 align="center">A passionate tech from Morocco</h3>
-
+<h3 align="center">A student at <a href="https://1337.ma/en/" target="_blank">@1337FIL </a> </h3>
 
 <br><br>
 <img align="right" alt="Coding" src="https://badge.mediaplus.ma/greenbinary/yelgharo" alt="yelgharo's 42 stats" />
